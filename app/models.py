@@ -39,6 +39,6 @@ class Invoice(Base):
     )
 
     due_date = Column(
-        String, 
+        Date, 
         nullable = False
     )

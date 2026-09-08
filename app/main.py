@@ -44,7 +44,8 @@ def create_invoice(
         invoice_number=invoice.invoice_number,
         invoice_date=invoice.invoice_date,
         amount=invoice.amount,
-        currency=invoice.currency
+        currency=invoice.currency,
+        due_date = invoice.due_date
     )
 
     logger.info(
