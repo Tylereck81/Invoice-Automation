@@ -1,0 +1,8 @@
+{ 
+    "supplier": "ACME INC", 
+    "invoice_number": "INV-123", 
+    "invoice_date":"2026-09-08", 
+    "amount": 1260.00, 
+    "currency": "EUR"
+}
+
