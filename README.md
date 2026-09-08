@@ -139,8 +139,8 @@ Then use `GET /invoices` to verify that the invoice was stored in PostgreSQL.
 - [x] Request validation
 - [x] Invoice date validation
 - [x] Logging
-- [ ] AI invoice extraction
-- [ ] AI output validation
+- [x] AI invoice extraction
+- [x] AI output validation
 - [ ] Human review for uncertain invoices
 - [ ] Optional message queue
 
