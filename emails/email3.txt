@@ -1,0 +1,15 @@
+From: billing@datasolutions.co.uk
+Subject: Payment request
+
+Hello,
+
+Please process our latest invoice.
+
+Supplier: Data Solutions
+Ref: UK-77421
+
+Total: £3,450
+
+Payment requested within 30 days.
+
+Thanks.

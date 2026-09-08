@@ -8,6 +8,7 @@ class InvoiceCreate(BaseModel):
     invoice_date:date 
     amount:float 
     currency:str
+    due_date:date
 
     @field_validator("currency")
     @classmethod

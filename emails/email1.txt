@@ -1,0 +1,14 @@
+From: billing@acme.com
+Subject: September invoice
+
+Hey,
+
+Just sending over our latest invoice.
+
+Invoice INV-48291 is for the September consulting work.
+The total amount due is €2,450.00.
+
+Could you please arrange payment by October 15th?
+
+Thanks,
+Acme Consulting

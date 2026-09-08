@@ -1,0 +1,14 @@
+From: accounts@cloudservices.com
+Subject: Invoice 93821
+
+Hi,
+
+Please process invoice 93821.
+
+Amount due: EUR 1,250
+Payment deadline is 30 September 2026.
+
+This was for cloud infrastructure services.
+
+Regards,
+Cloud Services Ltd

@@ -37,3 +37,8 @@ class Invoice(Base):
         String, 
         nullable = False
     )
+
+    due_date = Column(
+        String, 
+        nullable = False
+    )
